@@ -26,8 +26,8 @@
     /********** HORIZONTAL LAYOUT **********/ }
   
   body.dark-layout {
-    color: #b4b7bd;
-    background-color: #161d31; }
+    color: #3b65b9;
+    background-color: #089727; }
   
   .dark-layout body {
     color: #b4b7bd;
@@ -108,7 +108,7 @@
     background-color: #161d31; }
   
   .dark-layout .navbar-sticky .header-navbar.navbar-shadow {
-    box-shadow: 0 4px 24px 0 rgba(34, 41, 47, 0.75); }
+    box-shadow: 0 4px 24px 0 rgba(39, 77, 110, 0.75); }
   
   .dark-layout .header-navbar {
     background-color: #283046; }
